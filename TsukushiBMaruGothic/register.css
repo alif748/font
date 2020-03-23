@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "TsukushiBMaruGothic";
+    src: url("//raw.githubusercontent.com/alif748/font/master/TsukushiBMaruGothic/TsukuBRdGothicStd-M.woff2") format("woff2"),
+        url("//raw.githubusercontent.com/alif748/font/master/TsukushiBMaruGothic/TsukuBRdGothicStd-M.woff") format("woff")
+}
