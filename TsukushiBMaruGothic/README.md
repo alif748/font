@@ -1,3 +1,3 @@
 **Sample :**
 
-[sample](sample.jpg)
+![sample](sample.jpg)
