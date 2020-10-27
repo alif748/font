@@ -1,1 +1,3 @@
-<p>Sample : </p><img src="sample.jpg">
+**Sample :**
+
+[sample](sample.jpg)
